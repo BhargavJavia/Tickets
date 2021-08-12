@@ -1,0 +1,12 @@
+T8_Install tmate
+================
+
+https://tmate.io/
+
+Run below commands
+==================
+sudo apt-get install tmate
+
+Remote access
+tmate -F -n web new-session rails console
+

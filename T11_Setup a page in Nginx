@@ -1,0 +1,32 @@
+T11_Setup a page in Nginx / PHP
+===============================
+
+Step:-1
+	mkdir /var/www/websitename.com
+
+	it will create blank website.
+
+Step:-2
+	touch /var/www/websitename.com/filename
+
+	it will create blank file at specific given location.
+
+Step:-3
+	code /var/www/websitename.com/filename
+
+	it will open that particular file of given location into visual studio code.
+
+Step:-4 
+	ls -la /var/www/websitename.com
+
+	it will give you output that how many file is created.
+
+Step:-5 (Not Mandatory)
+	rm -R /var/www/websitename.com/filename 
+
+	it will remove specific file from given location.
+
+Step:-6 
+	php var/www/websitename.com/filename
+
+	it will open a sepecific file from given location in terminal.

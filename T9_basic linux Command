@@ -1,0 +1,103 @@
+T9_basic linux Command
+======================
+
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+Short cut for open terminal:- ctrl+alt+t
+
+1:- pwd 
+	Print Working Directory.
+
+	output:- 
+	/home/bhargav
+
+	Be extra careful with case when typing in the command line. Typing PWD instead of pwd will produce an error, but sometimes the wrong case can result in a command appearing to run, but not doing what you expected. We’ll look at case a little more on the next page but, for now, just make sure to type all the following lines in exactly the case that’s shown.
+
+2:- cd /
+	pwd  
+
+	output :- 
+
+	/
+
+	cd:- Change Directory.
+Note that the directory separator is a forward slash (”/”), not the backslash that you may be used to from Windows or DOS systems
+
+3:- cd home 
+	pwd 
+
+	output:-
+	/home 
+
+4:- cd ..
+	pwd 
+
+	Output:-
+	/
+
+5:- whoami 
+
+	output:- 
+	bhargav
+
+6:- mkdir
+
+	make directory 
+
+7:- cd directory name 
+
+	ouput:-
+	/tmp/tutorial
+
+8:- ls
+
+	list command 
+
+9:- cat 
+
+	Concatinate
+	content of file.
+
+10:- echo
+
+	print 
+
+11:- mv
+
+	move 
+
+12:- cp 
+
+	copy content of file.
+
+13:- rm 
+	
+	remove files.
+
+14:- rmdir
+
+	remove only empty diretory.
+
+15:- wc 
+
+	word Count.
+	 
+	wc -l 
+
+	count line 
+
+16:- uniq
+
+	identify unique line and remove duplicate line.
+
+Tips and Tricks for Using Linux Command Line
+
+	1) You can use the clear command to clear the terminal if it gets filled up with too many commands.
+	
+	2) TAB can be used to fill up in terminal. For example, You just need to type “cd Doc” and then TAB and the terminal fills the rest up and makes it “cd Documents”.
+	
+	3) Ctrl+C can be used to stop any command in terminal safely. If it doesn't stop with that, then Ctrl+Z can be used to force stop it.
+	
+	4) You can exit from the terminal by using the exit command.
+	
+	5)You can power off or reboot the computer by using the command sudo halt and sudo reboot.

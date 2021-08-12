@@ -1,0 +1,56 @@
+OOPS_concept
+============
+
+1) Abstract Class:-
+
+When method name is same and you want to call derived class method. then abstract method will work.
+basically when in both the class method name is same then it automatically run parent class method as by default.
+
+2) Annonyous Function:-
+
+Function with no name means like default function.
+
+3) Final Keyworkd:-
+
+use for making method final so that nobody can make changes into them. 
+like constant variable.
+
+4) Interface:-
+
+It is next level of abstraction. 
+it is used like list in large project.
+
+5) Iterator:-
+
+it is behaviour of this that use sequencial traversal in complex data structure.
+in simple word we can work easily by dividing complex program.
+
+6) Late binding:-
+
+Process the method at run time is called late binding.
+It directly run does not compile like other process.
+
+7) Name Space:-
+
+It allows to uses same name method from multiple class.
+Namespace is declared at the beginning of any class.
+
+8) Method Overloading:-
+
+It is a way to create method with same name but diffrent working area.
+
+9) Magic Method:-
+
+It is a built in method that work as it defined but its entire content may changed.
+it means simply working of method is same just user can change entire data as per requirement.
+
+10) Reflection Class:-
+
+Reflection class means that gives information about parent class that is inherited in derived class.
+Information like number of methods ,  number of properties , details about parent class.
+
+11) Traits:-
+
+It use for multiple inheritence.
+its main use for code reusability.
+

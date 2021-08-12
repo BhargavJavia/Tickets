@@ -1,0 +1,28 @@
+T_10 Install modules
+====================
+
+1:- php -m 
+	
+	list out all the module of php.
+
+2:- php -m | grep -i ftp 
+
+	for find patriculare module of php.
+
+How to List Installed PHP Modules
+
+ yum list installed | grep -i php		#RHEL/CentOS
+ dnf list installed | grep -i php		#Fedora 22+
+ dpkg --get-selections | grep -i php	#Debian/Ubuntu
+
+In case you want to find one particular module, like before, use a pipe and the grep command as shown.
+
+yum list installed | grep -i php-mbstring		#RHEL/CentOS
+dnf list installed | grep -i php-mbstring		#Fedora 22+
+dpkg --get-selections | grep -i php-mbstring	#Debian/Ubuntu
+
+ 
+ 3:- php -h
+
+ 	To list all php commands 
+

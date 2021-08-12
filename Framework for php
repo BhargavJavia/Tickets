@@ -1,0 +1,84 @@
+Framework for php
+=================
+
+1) Laravel:-
+
+Open source, huge community, Extensive documentation, Zero overheads for CFOs, LTS.
+Performance, Security & Scalability, faster-time-to-market.
+Laravel is one of the most popular PHP frameworks for web development with 64k+ stars on GitHub. Though it ranks 7 on PHP Benchmarks list of top-performing web development PHP frameworks, it tops our list given its huge community, rich feature set, and ease of use.
+
+=> Who uses the Laravel framework for their web applications?
+-> Master Card
+-> Razorpay
+-> OLX
+-> Wattpad
+-> TransferGO
+-> 9GAG
+
+=> Why explore Laravel framework alternatives for web development?
+No built-in support is available in RoR or Django framework.
+Easy to start, complex to master.
+Usual open-source LTS issues, i.e., migration issues and incompatibility of newer versions with older ones.
+
+
+
+
+2) Codeigniter
+
+=> Features
+-> Server requirements
+		Codeigniter framework v4 requires PHP 7.2 or above.
+		Supports MySQL, PostgreSQL, SQLite3
+
+-> CodeIgniter applications can be built using MVC architecture and adhere to object-oriented programming practices.
+-> 
+
+=> Who use the codeigniter framework for their application
+->Sprout Social
+->Buffer
+->Grindr
+->3M
+->Geekyants
+->Accenture
+->Ola
+->Remitly
+->Amplify
+->BigBazaar
+
+=>Why explore alternative web development frameworks?
+->No templating engine
+->No official stand on LTS versions
+->No in-built authentication, authorization features
+->Developers have to write their modules from scratch, while in other best PHP web frameworks like Laravel, a rich set of in-built ready-to-use modules are available.
+
+
+
+
+3) Symphony:-
+
+Symfony is not just a PHP web development framework but also provides a set of 50 stand-alone reusable PHP components for faster web app development. Using Symfony, you can develop web applications, microservices, and APIs too. With commercial support from SensioLabs, Symfony stands ahead of many on the list.
+
+=> Features:-
+-> 50+ decoupled components easily installable using composer.
+-> You’ve ‘Lock’ component for managing access to shared resources, ‘Routing’ for obviously implementing routes, ‘Guard’ for creating complex authentications, ‘MIME’ for manipulating MIME messages and creating advanced emails, ‘Security’ for advanced authorizations, ‘PHPUnit Bridge’ for test reporting.
+-> Symfony uses open-source Doctrine ORM for database operations. It’s a great alternative to writing repetitive SQL code.
+-> Symfony supports a diverse set of databases MySql, Oracle, PostgreSQL, SQLite, SQL Server, and SAP Sybase, etc.,
+-> 
+
+=> Who use the Symphony framework for their application
+->BlaBlaCar
+->Spotify
+->Magento
+->Statista
+->Practo
+->Naukri.com
+
+=> Why explore alternative web development framework:-
+-> For simple project laravel should make more sense.
+-> Laravel beats symphony in performance.
+
+
+Best Website for easily understand diffrence between laravel and symfony:-
+==========================================================================
+
+https://asperbrothers.com/blog/laravel-vs-symfony/
